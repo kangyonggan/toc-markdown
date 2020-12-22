@@ -1,0 +1,15 @@
+{
+  "name": "toc-markdown",
+  "version": "1.0.1",
+  "description": "根据markdown内容生成markdown格式的目录",
+  "main": "src/index.js",
+  "homepage": "https://github.com/kangyonggan/toc-markdown#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "康永敢",
+  "license": "ISC"
+}
